@@ -1,0 +1,166 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "jako@jako.jako",
+      "password": "111111",
+      "name": "JAKO"
+    },
+    {
+      "email": "asdas@mail.com",
+      "password": "123456",
+      "name": "sdadsa",
+      "id": 2
+    },
+    {
+      "email": "alikhan@pidor.com",
+      "password": "111111",
+      "name": "Alikhan",
+      "id": 3
+    }
+  ],
+  "bill": {
+    "value": 134600,
+    "currency": "RUB"
+  },
+  "categories": [
+    {
+      "name": "Дом",
+      "capacity": 15000,
+      "id": 1
+    },
+    {
+      "name": "Еда",
+      "capacity": 10000,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Машина",
+      "capacity": 7000
+    },
+    {
+      "name": "test",
+      "capacity": 1200,
+      "id": 4
+    },
+    {
+      "name": "asddsa",
+      "capacity": 11222,
+      "id": 5
+    },
+    {
+      "name": "Аренда",
+      "capacity": 100000,
+      "id": 6
+    },
+    {
+      "name": "прятное",
+      "capacity": 100000,
+      "id": 7
+    },
+    {
+      "name": "aaaa",
+      "capacity": 10000,
+      "id": 8
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "type": "income",
+      "amount": 1250,
+      "category": 2,
+      "date": "12.07.2017 19:49:02",
+      "description": "Подарили еду в гостях"
+    },
+    {
+      "id": 2,
+      "type": "outcome",
+      "amount": 1300,
+      "category": 1,
+      "date": "13.07.2017 19:49:02",
+      "description": "Купил посудомоечную машину"
+    },
+    {
+      "type": "income",
+      "amount": 1480,
+      "category": 2,
+      "date": "17.07.2017 14:00:48",
+      "id": 3,
+      "description": "Поход в окей с баллами. Бесплатная еда"
+    },
+    {
+      "type": "outcome",
+      "amount": 2470,
+      "category": 2,
+      "date": "17.07.2017 14:00:58",
+      "id": 4,
+      "description": "Закупка на неделю"
+    },
+    {
+      "type": "outcome",
+      "amount": 4000,
+      "category": 3,
+      "date": "10.07.2017 14:01:58",
+      "id": 5,
+      "description": "Заправка + проход ТО"
+    },
+    {
+      "type": "outcome",
+      "amount": 1200,
+      "category": 3,
+      "date": "02.07.2017 23:28:48",
+      "description": "Test",
+      "id": 6
+    },
+    {
+      "type": "outcome",
+      "amount": 3000,
+      "category": 3,
+      "date": "02.07.2017 23:29:11",
+      "description": "test 2",
+      "id": 7
+    },
+    {
+      "type": "outcome",
+      "amount": 1200,
+      "category": 2,
+      "date": "03.07.2017 23:26:15",
+      "description": "тест фильтр",
+      "id": 8
+    },
+    {
+      "type": "income",
+      "amount": 120000,
+      "category": 4,
+      "date": "02.08.2019 14:39:36",
+      "description": "e boy",
+      "id": 9
+    },
+    {
+      "type": "outcome",
+      "amount": 60000,
+      "category": 4,
+      "date": "02.08.2019 14:46:11",
+      "description": "buhlo",
+      "id": 10
+    },
+    {
+      "type": "outcome",
+      "amount": 10000,
+      "category": 6,
+      "date": "02.08.2019 20:12:19",
+      "description": "час",
+      "id": 11
+    },
+    {
+      "type": "outcome",
+      "amount": 10000,
+      "category": 8,
+      "date": "05.08.2019 13:16:53",
+      "description": "ddd",
+      "id": 12
+    }
+  ]
+}
